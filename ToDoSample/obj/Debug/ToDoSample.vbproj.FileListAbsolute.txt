@@ -1,0 +1,12 @@
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\bin\Debug\ToDoSample.exe.config
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\bin\Debug\ToDoSample.exe
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\bin\Debug\ToDoSample.pdb
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\bin\Debug\ToDoSample.xml
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\obj\Debug\ToDoSample.vbprojAssemblyReference.cache
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\obj\Debug\ToDoSample.Form1.resources
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\obj\Debug\ToDoSample.Resources.resources
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\obj\Debug\ToDoSample.vbproj.GenerateResource.cache
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\obj\Debug\ToDoSample.vbproj.CoreCompileInputs.cache
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\obj\Debug\ToDoSample.exe
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\obj\Debug\ToDoSample.xml
+C:\Users\wesarl\Source\Repos\ToDoSample\ToDoSample\obj\Debug\ToDoSample.pdb
