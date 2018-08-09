@@ -2,16 +2,6 @@
 
   Public Property dgvForTests As DataGridView
 
-  'Public Property ErrorTextVisable() As Boolean
-  '  Get
-  '    Return Me.lblError.Visible
-  '  End Get
-  '  Set(ByVal value As Boolean)
-  '    Me.lblError.Visible = value
-  '  End Set
-  'End Property
-
-  Private ErrMsg As String
   Public Property ErrorMessage() As String
     Get
       Return Me.lblError.Text
